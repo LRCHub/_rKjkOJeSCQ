@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "好きじゃないよ",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-03-09T01:40:22.945334Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きじゃないよ",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_好きじゃないよ_ヤングスキニー.txt"
+    }
+  ]
+}
